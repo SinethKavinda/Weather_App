@@ -55,3 +55,39 @@
     border-color:black;
     border-radius: 10px;
 }
+
+#map_view{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+    padding-top: 1%;
+    height: 670px;
+    border-width:5px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 10px;
+}
+
+#top_news{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+    padding-top: 1%;
+    height: 670px;
+    border-width:5px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 10px;
+}
+
+#newsletter{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+    padding-top: 1%;
+    height: 250px;
+    border-width:5px;
+    border-style:solid;
+    border-color:black;
+    border-radius: 10px;
+}
