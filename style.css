@@ -1,4 +1,11 @@
-#currect_date_time{
+#first_line_div{
+    margin-top: 25px;
+    position: fixed;
+    width: 100%;
+    height: 310px;
+}
+
+#current_date_time{
     margin: 50px;
     margin-top: 25px;
     padding-top: 1%;
@@ -8,4 +15,15 @@
     border-style:solid;
     border-color:black;
 
+}
+
+#live_current_weather{
+    position: relative ;
+    margin-top: 25px;
+    margin-left: 700px;
+    width: 30%;
+    height: 310px;
+    border-width:5px;
+    border-style:solid;
+    border-color:black;
 }
